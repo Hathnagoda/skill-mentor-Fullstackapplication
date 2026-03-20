@@ -156,7 +156,8 @@ Ensure backend is running before frontend
 Check logs for debugging (Render / Console)
 
 
-👨‍💻 Author
+'''
+## 👨‍💻 Author
 
 Gayantha Hathnagoda
 

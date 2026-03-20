@@ -61,37 +61,35 @@ https://skill-mentor-fullstackapplication.onrender.com
 ---
 
 ## 📂 Project Structure
+
+```text
 skill-mentor-Fullstackapplication/
 ├── backend/
-│ └── backend/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/
-│ │ │ └── resources/
-│ │ │ └── application.properties
-│ │ └── test/
-│ ├── pom.xml
-│ └── Dockerfile
-│
+│   └── backend/
+│       ├── src/
+│       │   ├── main/
+│       │   │   ├── java/
+│       │   │   └── resources/
+│       │   │       └── application.properties
+│       │   └── test/
+│       ├── pom.xml
+│       └── Dockerfile
 ├── frontend/
-│ ├── src/
-│ │ ├── pages/
-│ │ ├── routes/
-│ │ ├── services/
-│ │ ├── types/
-│ │ ├── App.tsx
-│ │ └── main.tsx
-│ ├── public/
-│ ├── package.json
-│ ├── vite.config.ts
-│ └── Dockerfile
-│
+│   ├── src/
+│   │   ├── pages/
+│   │   ├── routes/
+│   │   ├── services/
+│   │   ├── types/
+│   │   ├── App.tsx
+│   │   └── main.tsx
+│   ├── public/
+│   ├── package.json
+│   ├── vite.config.ts
+│   └── Dockerfile
 ├── docker-compose.yml
 ├── .env.example
 └── README.md
-
-
----
+```
 
 ## ⚙️ Environment Variables
 

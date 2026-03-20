@@ -118,7 +118,7 @@ APP_CORS_ALLOWED_ORIGINS=your_frontend_url
 
 VITE_API_BASE_URL=https://skill-mentor-fullstackapplication.onrender.com/api/v1
 
-VITE_CLERK_PUBLISHABLE_KEY=pk_test_aGFwcHktbWFybGluLTM4LmNsZXJrLmFjY291bnRzLmRldiQ
+VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 
 
 ---
@@ -155,16 +155,13 @@ Ensure backend is running before frontend
 
 Check logs for debugging (Render / Console)
 
----
 
-
-#👨‍💻 Author
+👨‍💻 Author
 
 Gayantha Hathnagoda
 
 🎓 BSc Computer Science Student
 💻 Full Stack Developer (React + Spring Boot)
-
 🔗 GitHub: https://github.com/Hathnagoda
 
 
